@@ -1,0 +1,12 @@
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\bin\Debug\net7.0\SuggestionAppLibrary.deps.json
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\bin\Debug\net7.0\SuggestionAppLibrary.dll
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\bin\Debug\net7.0\SuggestionAppLibrary.pdb
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\obj\Debug\net7.0\SuggestionAppLibrary.csproj.AssemblyReference.cache
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\obj\Debug\net7.0\SuggestionAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\obj\Debug\net7.0\SuggestionAppLibrary.AssemblyInfoInputs.cache
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\obj\Debug\net7.0\SuggestionAppLibrary.AssemblyInfo.cs
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\obj\Debug\net7.0\SuggestionAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\obj\Debug\net7.0\SuggestionAppLibrary.dll
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\obj\Debug\net7.0\refint\SuggestionAppLibrary.dll
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\obj\Debug\net7.0\SuggestionAppLibrary.pdb
+C:\Users\somarobeid\source\repos\suggestion-app\SuggestionApp\SuggestionAppLibrary\obj\Debug\net7.0\ref\SuggestionAppLibrary.dll
