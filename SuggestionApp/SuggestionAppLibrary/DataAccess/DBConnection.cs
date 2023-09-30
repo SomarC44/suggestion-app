@@ -3,7 +3,7 @@ using MongoDB.Driver;
 
 namespace SuggestionAppLibrary.DataAccess
 {
-    public class DBConnection
+    public class DbConnection : IDBConnection
     {
         private readonly IConfiguration _config;
         private readonly IMongoDatabase _db;
@@ -23,7 +23,7 @@ namespace SuggestionAppLibrary.DataAccess
 
 
 
-        public DBConnection(IConfiguration config)
+        public DbConnection(IConfiguration config)
         {
             _config = config;
             Client = new MongoClient(_config.GetConnectionString(_connectionId));
