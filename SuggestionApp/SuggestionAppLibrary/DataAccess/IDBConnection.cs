@@ -2,7 +2,7 @@
 
 namespace SuggestionAppLibrary.DataAccess
 {
-    public interface IDBConnection
+    public interface IDbConnection
     {
         IMongoCollection<CategoryModel> CategoryCollection { get; }
         string CategoryCollectionName { get; }
