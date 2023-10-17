@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\somarobeid\\source\\repos\\suggestion-app\\SuggestionApp\\SuggestionAppUI\\wwwroot\\images\\SuggestionSiteUserIcon.jpg",
+      "PackagePath": "staticwebassets\\images\\SuggestionSiteUserIcon.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SuggestionAppUI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

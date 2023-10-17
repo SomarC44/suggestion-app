@@ -43,6 +43,7 @@ namespace SuggestionAppUI
                     }
                     ));
 
+            app.MapControllers();
             app.MapBlazorHub();
             app.MapFallbackToPage("/_Host");
 
