@@ -40,10 +40,10 @@
                         <div class="suggestion-entry-text-title" @onclick="(() => OpenDetails(s))">
                             @s.Suggestion
                         </div>
-                    </div>
-                    <div>
-                        <div class="suggestion-entry-text-category" @onclick="(() => OpenDetails(s))">
-                            @s.Category?.CategoryName
+                        <div>
+                            <div class="suggestion-entry-text-category" @onclick="(() => OpenDetails(s))">
+                                @s.Category?.CategoryName
+                            </div>
                         </div>
                     </div>
                     <div class="suggestion-entry-status @GetSuggestionStatusClass(s)">
