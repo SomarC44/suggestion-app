@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\somarobeid\\source\\repos\\suggestion-app\\SuggestionApp\\SuggestionAppUI\\wwwroot\\images\\SuggestionAppBackground.jpg",
+      "PackagePath": "staticwebassets\\images\\SuggestionAppBackground.jpg"
+    },
+    {
       "Id": "C:\\Users\\somarobeid\\source\\repos\\suggestion-app\\SuggestionApp\\SuggestionAppUI\\wwwroot\\images\\SuggestionSiteUserIcon.jpg",
       "PackagePath": "staticwebassets\\images\\SuggestionSiteUserIcon.jpg"
     },

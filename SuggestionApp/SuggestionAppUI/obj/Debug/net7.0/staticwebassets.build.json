@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fpPnWe+b7u71LIWWNs4v0aJ2eP38P78vz00HzspsZ3w=",
+  "Hash": "frno5OFvpzIgTitY5czAyWdItqfuCQp3Jcu79mp4hIE=",
   "Source": "SuggestionAppUI",
   "BasePath": "_content/SuggestionAppUI",
   "Mode": "Default",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\somarobeid\\source\\repos\\suggestion-app\\SuggestionApp\\SuggestionAppUI\\wwwroot\\images\\SuggestionAppBackground.jpg",
+      "SourceId": "SuggestionAppUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\somarobeid\\source\\repos\\suggestion-app\\SuggestionApp\\SuggestionAppUI\\wwwroot\\",
+      "BasePath": "_content/SuggestionAppUI",
+      "RelativePath": "images/SuggestionAppBackground.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\SuggestionAppBackground.jpg"
     },
     {
       "Identity": "C:\\Users\\somarobeid\\source\\repos\\suggestion-app\\SuggestionApp\\SuggestionAppUI\\wwwroot\\images\\SuggestionSiteUserIcon.jpg",
