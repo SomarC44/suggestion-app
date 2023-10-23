@@ -30,7 +30,8 @@ h1:focus {
 }
 
 a, .btn-link {
-    color: #0071c1;
+    color: #FFFFFF;
+    text-decoration: none;
 }
 
 .btn-primary {
@@ -299,4 +300,94 @@ a, .btn-link {
     letter-spacing: 1.2px;
 }
 
+.nav-links {
+    display: flex;
+    text-align: center;
+    justify-content: flex-end;
+}
 
+.login-link {
+    padding-left: 1rem;
+}
+
+.form-layout {
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    padding: 2rem;
+}
+
+    .form-layout a {
+        font-weight: 700;
+        color: #FFFFFF;
+    }
+
+        .form-layout a:hover {
+            font-weight: 700;
+            color: #FFFFFF;
+            text-decoration: underline;
+        }
+
+.close-button-section {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.input-section {
+    margin-bottom: 2rem;
+}
+
+.input-description {
+    margin-bottom: 0.5rem;
+}
+
+.radio-item-group input[type="radio"] {
+    display: none;
+}
+
+.radio-item-group label {
+    border-color: #000000;
+    border-width: 1px;
+    padding: 0.3rem 1.5rem;
+    border-radius: 10px;
+    width: 100%;
+    border-style: solid;
+}
+
+.radio-item-group input[type="radio"]:checked + label {
+    background-color: #DDDDDD;
+    color: #FFFFFF;
+    width: 100%;
+    border: 1px #DDDDDD solid;
+}
+
+.radio-item-group {
+    color: #000000;
+    margin: 0.5rem;
+}
+
+.center-children {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-main {
+    color: #FFFFFF;
+    background-color: #000000;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-family: 'Montserrat', sans-sarif;
+    font-weight: 900;
+    border-radius: 10px;
+    border-width: 3px;
+}
+
+.btn-main:hover {
+    color: #000000;
+    border-color: #000000;
+    background-color: #FFFFFF;
+    border-width: 3px;
+}
+
+.input-section {
+    color: #000000;
+}
