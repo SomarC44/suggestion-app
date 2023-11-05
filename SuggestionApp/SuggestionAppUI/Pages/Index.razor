@@ -89,11 +89,11 @@
         @if (statuses is not null)
         {
             <div class="statuses">
-                <span class="text-uppercase fw-bold">Category</span>
+                <span class="text-uppercase fw-bold">Status</span>
                 <div class="@GetSelectedStatus()" @onclick="(() => OnStatusClick())">All</div>
                 @foreach (var s in statuses)
                 {
-                    <div class="@GetSelectedStatus(s.StatusName)" @onclick="(() => OnCategoryClick(s.StatusName))">@s.StatusName</div>
+                    <div class="@GetSelectedStatus(s.StatusName)" @onclick="(() => OnStatusClick(s.StatusName))">@s.StatusName</div>
                 }
             </div>
         }
