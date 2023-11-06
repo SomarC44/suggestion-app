@@ -26,7 +26,8 @@ namespace SuggestionAppLibrary.DataAccess
         public DbConnection(IConfiguration config)
         {
             _config = config;
-            Client = new MongoClient(_config.GetConnectionString(_connectionId));
+            string connectionString = _config.GetConnectionString(_connectionId);
+            Client = new MongoClient(connectionString);
             DbName = _config[key: "DatabaseName"];
             _db = Client.GetDatabase(DbName);
 
